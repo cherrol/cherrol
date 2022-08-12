@@ -20,8 +20,8 @@
 
 <h2 style="margin-top: 40px; padding-bottom: 10px;">📊 Profile Stats</h2>
 <div>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrol&theme=radical&title_color=8E2DE2&text_color=fff" height="320" style="margin-right: 20px"  />
-   <img src="https://github-readme-stats.vercel.app/api?username=cherrol&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff" height="320" />
+  <p style="display: flex; justify-content: space-between;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrol&theme=radical&title_color=8E2DE2&text_color=fff" height="220" style="margin-right: 20px"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=cherrol&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff" height="220" />
   </p>
 </div>
