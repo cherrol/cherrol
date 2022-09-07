@@ -27,3 +27,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=cherrol&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff" />
   </p>
 </div>
+
+<h2 style="margin-top: 40px; padding-bottom: 10px;">Develop Tools</h2>
+- Debian (Windows + wsl2)
+- vscode
